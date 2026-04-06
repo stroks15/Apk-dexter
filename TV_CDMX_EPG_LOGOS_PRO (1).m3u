@@ -1,0 +1,44 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
+
+# ===== TV AZTECA =====
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Azteca_Uno_logo.png" group-title="TV Abierta MX",Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/ADN40_logo.png" group-title="TV Abierta MX",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="AztecaInt.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Azteca_Uno_logo.png" group-title="TV Abierta MX",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 tvg-id="AztecaUno1h.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Azteca_Uno_logo.png" group-title="TV Abierta MX",Azteca Uno -1 Hora
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/646ccc7a2858cb0008127367/master.m3u8
+
+
+# ===== CANALES CDMX =====
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal_Once_logo.png" group-title="TV Abierta MX",Canal Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal22.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Canal_22_logo.png" group-title="TV Abierta MX",Canal 22
+https://5c2ad57486351.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/TV_UNAM_logo.png" group-title="TV Abierta MX",TV UNAM
+https://livestreamtv.unam.mx/streaming/tvunam/playlist.m3u8
+
+
+# ===== PLUTO TV =====
+#EXTINF:-1 tvg-id="PlutoCine.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Pluto_TV_logo.png" group-title="Pluto TV MX",Pluto Cine Estelar
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f2b6a7cf26b4c0007d88c79/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoSeries.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Pluto_TV_logo.png" group-title="Pluto TV MX",Pluto Series
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f2b6a8d2a7c4c0007d88c7a/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoAccion.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Pluto_TV_logo.png" group-title="Pluto TV MX",Pluto Acción
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f2b6aa92a7c4c0007d88c7c/master.m3u8
+
+
+# ===== INTERNACIONALES =====
+#EXTINF:-1 tvg-id="DW.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/DW_logo.png" group-title="Internacional",DW Español
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+#EXTINF:-1 tvg-id="France24.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo.png" group-title="Internacional",France 24 Español
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
