@@ -1,4 +1,3 @@
-# 🚫 ANUNCIOS PESADOS Y REDES SOCIALES
 127.0.0.1 ads.youtube.com
 127.0.0.1 static.facebook.com
 127.0.0.1 graph.facebook.com
@@ -10,7 +9,7 @@
 127.0.0.1 unityads.com
 127.0.0.1 vungle.com
 
-# 🛡️ BLOQUEO DE TRACKING Y ESPÍA
+
 127.0.0.1 analytics.google.com
 127.0.0.1 crashlytics.com
 127.0.0.1 fabric.io
@@ -19,7 +18,7 @@
 127.0.0.1 adjust.com
 127.0.0.1 appsflyer.com
 
-# 🧹 LIMPIEZA Y RENDIMIENTO
+
 127.0.0.1 oascentral.com
 127.0.0.1 liverail.com
 127.0.0.1 rubiconproject.com
