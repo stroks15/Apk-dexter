@@ -1,0 +1,131 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
+#PLAYLIST:TV CDMX Clásica - Abierta y Paga (EPGShare01 + tv-logos)
+
+#EXTINF:-1 tvg-chno="1" tvg-id="Canal.Azteca.Uno.mx" tvg-name="Canal 1 Azteca Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-uno-mx.png" group-title="1. TV Abierta CDMX",Canal 1 Azteca Uno
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+
+#EXTINF:-1 tvg-chno="1.1" tvg-id="Canal.Azteca.Uno.-1.Hora.mx" tvg-name="Canal 1 -1 Azteca Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-uno-mx.png" group-title="1. TV Abierta CDMX",Canal 1 -1 Azteca Uno
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13745&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-name="Canal 2 Canal de las Estrellas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png" group-title="1. TV Abierta CDMX",Canal 2 Canal de las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Canal.Imagen.Televisión.mx" tvg-name="Canal 3 Imagen Televisión" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/imagen-television-mx.png" group-title="1. TV Abierta CDMX",Canal 3 Imagen Televisión
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Canal.Multimedios.Plus.mx" tvg-name="Canal 6 Multimedios CDMX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/multimedios-mx.png" group-title="1. TV Abierta CDMX",Canal 6 Multimedios CDMX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13744&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx" tvg-name="Canal 7 Azteca 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-7-mx.png" group-title="1. TV Abierta CDMX",Canal 7 Azteca 7
+http://187.245.231.226:8000/play/a0uz/index.m3u8
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Canal.11.de.México.mx" tvg-name="Canal 11 Canal Once" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-once-mx.png" group-title="1. TV Abierta CDMX",Canal 11 Canal Once
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Canal.14.de.México.mx" tvg-name="Canal 14 TV Migrante" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-catorce-mx.png" group-title="1. TV Abierta CDMX",Canal 14 TV Migrante
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Canal.Aprende.mx" tvg-name="Canal 15 ILCE Summa Saberes" tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="1. TV Abierta CDMX",Canal 15 ILCE Summa Saberes
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Canal.22.de.México.mx" tvg-name="Canal 22 Canal 22" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-22-mx.png" group-title="1. TV Abierta CDMX",Canal 22 Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="34" tvg-id="Canal.Mexiquense.TV.mx" tvg-name="Canal 34 Mexiquense TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/mexiquense-tv-mx.png" group-title="1. TV Abierta CDMX",Canal 34 Mexiquense TV
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="40" tvg-id="ADN.Noticia.mx" tvg-name="Canal 40 ADN 40" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/adn-40-mx.png" group-title="1. TV Abierta CDMX",Canal 40 ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-chno="45" tvg-id="CanaldelCongreso451.mx@SD" tvg-name="Canal 45 Canal del Congreso" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-del-congreso-mx.png" group-title="1. TV Abierta CDMX",Canal 45 Canal del Congreso
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-id="MVSTV.mx@SD" tvg-name="Canal 52 MVS TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/mvs-tv-mx.png" group-title="1. TV Abierta CDMX",Canal 52 MVS TV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#EXTINF:-1 tvg-chno="101" tvg-id="Canal.Milenio.TV.mx" tvg-name="Canal 101 Milenio Televisión" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/milenio-tv-mx.png" group-title="2. Noticias y Opinión",Canal 101 Milenio Televisión
+https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
+
+#EXTINF:-1 tvg-chno="102" tvg-id="Canal.Telefórmula.mx" tvg-name="Canal 102 TeleFórmula" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/teleformula-mx.png" group-title="2. Noticias y Opinión",Canal 102 TeleFórmula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+
+#EXTINF:-1 tvg-chno="103" tvg-id="JusticiaTV.mx@SD" tvg-name="Canal 103 Justicia TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/justicia-tv-mx.png" group-title="2. Noticias y Opinión",Canal 103 Justicia TV
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="201" tvg-id="Canal.TLNovelas.(México).mx" tvg-name="Canal 201 Tlnovelas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tlnovelas-mx.png" group-title="3. Entretenimiento y Series",Canal 201 Tlnovelas
+http://167.249.23.102:8000/play/a0g8/index.m3u8
+
+#EXTINF:-1 tvg-chno="202" tvg-id="Canal.Distrito.Comedia.mx" tvg-name="Canal 202 Distrito Comedia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/distrito-comedia-mx.png" group-title="3. Entretenimiento y Series",Canal 202 Distrito Comedia
+http://playtvofclat.vip:80/live/9C00D37FA61B/D37FA61B9C00/317517.m3u8
+
+#EXTINF:-1 tvg-chno="203" tvg-id="Canal.Warner.TV.(México).mx" tvg-name="Canal 203 Warner Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/warner-channel-latin-america.png" group-title="3. Entretenimiento y Series",Canal 203 Warner Channel
+http://15.204.246.24:8080/WarnerChannelHD/index.m3u8
+
+#EXTINF:-1 tvg-chno="204" tvg-id="Canal.Comedy.Central.(México).mx" tvg-name="Canal 204 Comedy Central" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/comedy-central-latin-america.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="3. Entretenimiento y Series",Canal 204 Comedy Central
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Comedy_Central/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="205" tvg-id="Canal.Lifetime.(México).mx" tvg-name="Canal 205 Lifetime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/lifetime-latin-america.png" group-title="3. Entretenimiento y Series",Canal 205 Lifetime
+https://streaming.onnethn.com/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-chno="206" tvg-id="Canal.BitMe.mx" tvg-name="Canal 206 bitMe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/bitme-mx.png" group-title="3. Entretenimiento y Series",Canal 206 bitMe
+https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="207" tvg-id="Canal.TV.Azteca.Mundo.mx" tvg-name="Canal 207 Azteca Internacional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-internacional-mx.png" group-title="3. Entretenimiento y Series",Canal 207 Azteca Internacional
+http://167.249.23.102:8000/play/a0a3/index.m3u8
+
+#EXTINF:-1 tvg-chno="301" tvg-id="Canal.Disney.Channel.(México).mx" tvg-name="Canal 301 Disney Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/disney-channel-latin-america.png" group-title="4. Infantil",Canal 301 Disney Channel
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+
+#EXTINF:-1 tvg-chno="302" tvg-id="Canal.Disney.Junior.(México).mx" tvg-name="Canal 302 Disney Jr." tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/disney-jr-latin-america.png" group-title="4. Infantil",Canal 302 Disney Jr.
+http://205.235.6.29:8000/play/a0zj/index.m3u8
+
+#EXTINF:-1 tvg-chno="303" tvg-id="Canal.Nick.Jr..(México).mx" tvg-name="Canal 303 Nick Jr." tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/nick-jr-latin-america.png" group-title="4. Infantil",Canal 303 Nick Jr.
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="401" tvg-id="Canal.National.Geographic.(México).mx" tvg-name="Canal 401 National Geographic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/national-geographic-latin-america.png" group-title="5. Documentales y Estilo de Vida",Canal 401 National Geographic
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+
+#EXTINF:-1 tvg-chno="402" tvg-id="Canal.Discovery.Channel.(México).mx" tvg-name="Canal 402 Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-channel-latin-america.png" group-title="5. Documentales y Estilo de Vida",Canal 402 Discovery Channel
+http://205.235.6.29:8000/play/a0yq/index.m3u8
+
+#EXTINF:-1 tvg-chno="403" tvg-id="Canal.Discovery.Home.&.Health.(México).mx" tvg-name="Canal 403 Discovery Home & Health" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-home-and-health-latin-america.png" group-title="5. Documentales y Estilo de Vida",Canal 403 Discovery Home & Health
+http://205.235.6.29:8000/play/a0y6/index.m3u8
+
+#EXTINF:-1 tvg-chno="450" tvg-id="Canal.Bandamax.mx" tvg-name="Canal 450 Bandamax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/bandamax-mx.png" group-title="6. Música",Canal 450 Bandamax
+http://181.78.106.127:5000/play/ca064/index.m3u8
+
+#EXTINF:-1 tvg-chno="451" tvg-id="Teleritmo.mx@SD" tvg-name="Canal 451 Teleritmo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/teleritmo-mx.png" group-title="6. Música",Canal 451 Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-chno="501" tvg-id="Canal.TUDN.(México).mx" tvg-name="Canal 501 TUDN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png" group-title="7. Deportes",Canal 501 TUDN
+https://streaming.alwaysdata.net/tudn.php
+
+#EXTINF:-1 tvg-chno="502" tvg-id="ESPN.mx" tvg-name="Canal 502 ESPN México" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-latin-america.png" group-title="7. Deportes",Canal 502 ESPN México
+http://168.228.44.241:9997/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-chno="504" tvg-id="SkySports1.mx@SD" tvg-name="Canal 504 Sky Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/sky-sports-mx.png" group-title="7. Deportes",Canal 504 Sky Sports 1
+http://45.228.234.9:8000/play/a06b/index.m3u8
+
+#EXTINF:-1 tvg-chno="505" tvg-id="Canal.AYM.Sports.mx" tvg-name="Canal 505 AYM Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/aym-sports-mx.png" group-title="7. Deportes",Canal 505 AYM Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=14080&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_mx&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 tvg-chno="601" tvg-id="Canal.De.Película.mx" tvg-name="Canal 601 De Película" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/de-pelicula-mx.png" group-title="8. Cine y Películas",Canal 601 De Película
+http://205.235.6.29:8000/play/a0z7/index.m3u8
+
+#EXTINF:-1 tvg-chno="602" tvg-id="Canal.Golden.Plus.mx" tvg-name="Canal 602 Golden Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/golden-plus-mx.png" group-title="8. Cine y Películas",Canal 602 Golden Plus
+http://45.5.118.152:8000/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-chno="603" tvg-id="Canal.Golden.Premier.mx" tvg-name="Canal 603 Golden Premier" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/golden-premier-mx.png" group-title="8. Cine y Películas",Canal 603 Golden Premier
+http://200.57.28.141:8540/play/a0ln
+
+#EXTINF:-1 tvg-chno="604" tvg-id="Canal.Golden.Premier.2.mx" tvg-name="Canal 604 Golden Premier 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/golden-premier-2-mx.png" group-title="8. Cine y Películas",Canal 604 Golden Premier 2
+http://200.57.28.141:8540/play/a0lo
+
+#EXTINF:-1 tvg-chno="605" tvg-id="ClaroCinema.mx@SD" tvg-name="Canal 605 Claro Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/claro-cinema-mx.png" group-title="8. Cine y Películas",Canal 605 Claro Cinema
+http://45.171.64.30:6060/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-chno="606" tvg-id="Panico.mx@SD" tvg-name="Canal 606 Pánico" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/panico-mx.png" group-title="8. Cine y Películas",Canal 606 Pánico
+http://181.78.8.199:8000/play/a0bt/index.m3u8
+
+#EXTINF:-1 tvg-chno="701" tvg-id="ElChavoTV.mx@HD" tvg-name="Canal 701 El Chavo del 8 (24/7)" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="9. Clásicos 24/7",Canal 701 El Chavo del 8 (24/7)
+https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8
